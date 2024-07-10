@@ -3,7 +3,7 @@
 
 - currently learning **C**, **Assembly (ARM)**
 
-- My public projects are available at [https://cyrilk.dev/public-projects](https://cyrilk.dev/)
+- My public projects are available at [https://cyrilk.dev](https://cyrilk.dev/)
 
 - I love **Linux** and **MacOS**
 
