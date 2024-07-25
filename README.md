@@ -1,7 +1,7 @@
 <h1 align="center">Sup, I'm Cyril</h1>
 <h3 align="center">wannabe programmer</h3>
 
-- currently learning **C**, **Assembly (ARM)**
+- currently learning **Rust**, **React Native**
 
 - My public projects are available at [https://cyrilk.dev](https://cyrilk.dev/)
 
